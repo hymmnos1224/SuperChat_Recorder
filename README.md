@@ -54,6 +54,8 @@ A better UI.
 
 Code Refactoring for better adding function.
 
+Maybe adding a offline mySql version.
+
 **This is the second time I use python, bsaiclly just learning and coding same time for several hours, so there might be still many bugs.
 
 
