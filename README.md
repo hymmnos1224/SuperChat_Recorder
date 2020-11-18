@@ -50,6 +50,8 @@ Error Alert on invalid input.
 
 Optimize the running time.
 
+Different color to indicate Super chat of differnt price.
+
 A better UI.
 
 Code Refactoring for better adding function.
